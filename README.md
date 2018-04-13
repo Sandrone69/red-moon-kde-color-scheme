@@ -1,14 +1,15 @@
-# Blue Moon color scheme
-Dark color scheme with blue reflections. For KDE Plasma 5.
+# Red Moon color scheme
+Dark color scheme with red reflections. For KDE Plasma 5.
 
 Put the color-scheme in:
 ~/.kde/share/apps/color-schemes/
 
-![resized_blue-moon-dolphin-logo](https://user-images.githubusercontent.com/38332358/38722826-8916c96e-3eff-11e8-86e0-315029678713.png)
+![resized_red moon-dolphin-logo](https://user-images.githubusercontent.com/38332358/38723268-d2f9b2ca-3f00-11e8-9e23-bc677e7ca5c9.png)
 
-![resized_blue-moon-desktop](https://user-images.githubusercontent.com/38332358/38722828-8bab8bc4-3eff-11e8-9e61-4c900733b5b0.png)
+![resized_red moon-dolphin](https://user-images.githubusercontent.com/38332358/38723271-d54864d6-3f00-11e8-8332-a52a744824ab.png)
 
-![resized_blue-moon-dolphin](https://user-images.githubusercontent.com/38332358/38722829-8d1eeba4-3eff-11e8-8b6b-57d0cefdde7f.png)
+![resized_red moon-desktop](https://user-images.githubusercontent.com/38332358/38723275-d7257ad2-3f00-11e8-8d9e-63da54ce83aa.png)
 
-![resized_blue-moon-buttons](https://user-images.githubusercontent.com/38332358/38722830-8e5db518-3eff-11e8-8161-57e8a3eaad37.png)
+![resized_red moon-buttons](https://user-images.githubusercontent.com/38332358/38723277-d8c8e6f8-3f00-11e8-904b-114da8f4b04e.png)
+
 
